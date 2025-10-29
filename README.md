@@ -1,4 +1,4 @@
-# Project Documentation Framework — Root README
+# Project Documentation Framework
 
 This repository provides a **documentation framework** and reusable **AI-assisted development workflow** designed to make software delivery structured, iterative, and traceable.
 It aligns human developers and AI tools (like ChatGPT or Claude Code) around a consistent set of Markdown-based artifacts.
